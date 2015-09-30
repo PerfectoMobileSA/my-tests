@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="instances">
+  <parameter name="testCycle" value="my_tests_1.40"/>
+  <test name="Test(failed)" parallel="instances">
+    <parameter name="testCycle" value="my_tests_1.40"/>
+    <classes>
+      <class name="testng.SignIn">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="beforeMethod"/>
+          <include name="signIn" invocation-numbers="2"/>
+          <include name="signIn" invocation-numbers="2"/>
+          <include name="signIn" invocation-numbers="2"/>
+          <include name="signIn" invocation-numbers="2"/>
+          <include name="signIn" invocation-numbers="2"/>
+        </methods>
+      </class> <!-- testng.SignIn -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
