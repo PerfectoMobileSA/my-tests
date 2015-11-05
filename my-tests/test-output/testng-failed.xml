@@ -8,12 +8,12 @@
           <include name="beforeMethod"/>
           <include name="beforeClass"/>
           <include name="afterClass"/>
+          <include name="signIn" invocation-numbers="0"/>
         </methods>
       </class> <!-- testng.SignIn -->
       <class name="testng.FindPost">
         <methods>
           <include name="beforeMethod"/>
-          <include name="findPost" invocation-numbers="3"/>
           <include name="beforeClass"/>
           <include name="afterClass"/>
         </methods>

@@ -2,11 +2,15 @@ package com.perfectomobile.web_community_pom;
 
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.RemoteWebDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
 import com.perfectomobile.utils.PerfectoUtils;
 
 /**
@@ -204,6 +208,8 @@ public class WebUpperMenuPageView{
 		
 		try {
 			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+			WebDriverWait wait = new WebDriverWait(driver, 10);
+			wait.until(ExpectedConditions.presenceOfElementLocated(welcomeMessage));
 			String returnValue = driver.findElement(welcomeMessage).getText();
 			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 			return returnValue;
@@ -230,7 +236,7 @@ public class WebUpperMenuPageView{
 			//element.clear();
 			element.sendKeys(text);
 			this.driver.getKeyboard().pressKey(Keys.ENTER);
-			PerfectoUtils.sleep(1000);
+			PerfectoUtils.sleep(2000);
 						
 			return new WebSearchResultsPageView(this.driver);
 			

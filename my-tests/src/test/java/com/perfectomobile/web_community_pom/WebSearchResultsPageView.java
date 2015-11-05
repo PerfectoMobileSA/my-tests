@@ -110,6 +110,7 @@ public class WebSearchResultsPageView extends WebCommunityBaseView {
 			//wait.until(ExpectedConditions.visibilityOf(element));
 			//PerfectoUtils.sleep(4000);
 			element.click();
+			PerfectoUtils.sleep(2000);
 			
 			return new WebPostPageView(driver);
 		} catch (Exception e) {
