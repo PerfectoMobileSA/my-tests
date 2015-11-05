@@ -230,6 +230,7 @@ public class WebUpperMenuPageView{
 			//element.clear();
 			element.sendKeys(text);
 			this.driver.getKeyboard().pressKey(Keys.ENTER);
+			PerfectoUtils.sleep(1000);
 						
 			return new WebSearchResultsPageView(this.driver);
 			

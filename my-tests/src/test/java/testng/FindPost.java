@@ -34,22 +34,22 @@ public class FindPost extends BasicTest {
 			String actualPostTitle = resultView.clickPost(idx).getPostTitle();
 			if(actualPostTitle.equals(postTitle)){
 				reportPass("Test passed", this.testName, q, postIndex, postTitle);
-				addRowToDetailedSheet(true, q, postIndex, postTitle);
+				//addRowToDetailedSheet(true, q, postIndex, postTitle);
 			}
 			else{
-				addRowToDetailedSheet(false, q, postIndex, postTitle);
+				//addRowToDetailedSheet(false, q, postIndex, postTitle);
 				reportFail(postTitle, actualPostTitle, this.testName, q, postIndex, postTitle);
 			}
 			//System.out.println(actualPostTitle);
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-			addRowToDetailedSheet(false, q, postIndex, postTitle);
+			//addRowToDetailedSheet(false, q, postIndex, postTitle);
 			reportFailWithMessage(e.getMessage(), this.testName, q, postIndex, postTitle);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-			addRowToDetailedSheet(false, q, postIndex, postTitle);
+			//addRowToDetailedSheet(false, q, postIndex, postTitle);
 			reportFailWithMessage(e.getMessage(), this.testName, q, postIndex, postTitle);
 		}
 	}

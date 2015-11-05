@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="Suite" parallel="false" threads="10" >
+<suite name="Suite" parallel="methods" threads="10" >
   <test name="Test">
-  <parameter name="testCycle" value="my_tests_1.40" />
     <classes>
       <class name="testng.SignIn" />
-      <!-- <class name="testng.FindPost" />  -->
+      <class name="testng.FindPost" />
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -5,14 +5,10 @@
     <classes>
       <class name="testng.FindPost">
         <methods>
+          <include name="beforeMethod"/>
+          <include name="findPost" invocation-numbers="0 1 2 3"/>
           <include name="beforeClass"/>
           <include name="afterClass"/>
-          <include name="beforeMethod"/>
-          <include name="findPost"/>
-          <include name="findPost"/>
-          <include name="findPost"/>
-          <include name="findPost"/>
-          <include name="findPost" invocation-numbers="3"/>
         </methods>
       </class> <!-- testng.FindPost -->
     </classes>

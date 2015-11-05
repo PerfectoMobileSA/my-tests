@@ -22,6 +22,7 @@ public class SignIn extends BasicTest{
 	public SignIn(DesiredCapabilities caps){
 		super(caps);
 	}
+	
 	@Test(dataProvider = "logInData")
 	public void signIn(String username, String password, String greetingMessage) {
 		if(this.driver == null){
@@ -33,10 +34,10 @@ public class SignIn extends BasicTest{
 			String result = mobileView.getWelcomeMessage();
 			if(result.equals(greetingMessage)){
 				reportPass("Test passed", this.testName, username, password, greetingMessage);
-				addRowToDetailedSheet(true, username, password, greetingMessage);
+				//addRowToDetailedSheet(true, username, password, greetingMessage);
 			}
 			else{
-				addRowToDetailedSheet(false, username, password, greetingMessage);
+				//addRowToDetailedSheet(false, username, password, greetingMessage);
 				reportFail(greetingMessage,result, this.testName, username, password, greetingMessage);
 			}
 			
