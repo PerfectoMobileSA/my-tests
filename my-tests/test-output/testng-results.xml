@@ -1,29 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="2" total="30" passed="28">
+<testng-results skipped="0" failed="4" total="10" passed="6">
   <reporter-output>
     <line>
-      <![CDATA[Value is: , Should be: Hi, Avner!.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: Chrome.]]>
-    </line>
-    <line>
-      <![CDATA[Error screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-36-35-488-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-36-35-488-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
       <![CDATA[Test passed: Test passed.]]>
     </line>
     <line>
-      <![CDATA[Resource name: Firefox.]]>
+      <![CDATA[Resource name: Galaxy S5 SM-G900A Avner.]]>
     </line>
     <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-36-42-140-IST.png]]>
+      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-26-46-569-IST.png]]>
     </line>
     <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-36-42-140-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-26-46-569-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
     </line>
     <line>
       <![CDATA[Test passed: Test passed.]]>
@@ -32,22 +20,10 @@
       <![CDATA[Resource name: Galaxy S5 SM-G900A Avner.]]>
     </line>
     <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-36-52-944-IST.png]]>
+      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-27-53-964-IST.png]]>
     </line>
     <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-36-52-944-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: iPhone-6 Raj.]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-36-59-541-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-36-59-541-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-27-53-964-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
     </line>
     <line>
       <![CDATA[Test passed: Test passed.]]>
@@ -56,64 +32,10 @@
       <![CDATA[Resource name: iPad Air Shared.]]>
     </line>
     <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-37-07-498-IST.png]]>
+      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-29-44-396-IST.png]]>
     </line>
     <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-37-07-498-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: Chrome.]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-37-22-648-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-37-22-648-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: Firefox.]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-37-41-096-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-37-41-096-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: Galaxy S5 SM-G900A Avner.]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-37-53-732-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-37-53-732-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: iPhone-6 Raj.]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-02-152-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-02-152-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: iPad Air 2 Shared.]]>
+      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-29-44-396-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
     </line>
     <line>
       <![CDATA[Test passed: Test passed.]]>
@@ -122,307 +44,53 @@
       <![CDATA[Resource name: iPad Air Shared.]]>
     </line>
     <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-15-295-IST.png]]>
+      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-31-10-180-IST.png]]>
     </line>
     <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-15-295-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-16-594-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-16-594-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-31-10-180-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
     </line>
     <line>
       <![CDATA[Test passed: Test passed.]]>
     </line>
     <line>
-      <![CDATA[Resource name: Firefox.]]>
+      <![CDATA[Resource name: iPhone-6 Raj.]]>
     </line>
     <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-30-806-IST.png]]>
+      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-31-58-965-IST.png]]>
     </line>
     <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-30-806-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: Chrome.]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-38-120-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-38-120-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-31-58-965-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
     </line>
     <line>
       <![CDATA[Test passed: Test passed.]]>
     </line>
     <line>
-      <![CDATA[Resource name: Galaxy S5 Raj.]]>
+      <![CDATA[Resource name: iPhone-6 Raj.]]>
     </line>
     <line>
-      <![CDATA[Test passed: Test passed.]]>
+      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-33-02-922-IST.png]]>
     </line>
     <line>
-      <![CDATA[Resource name: Firefox.]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-42-333-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-42-333-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-42-615-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-42-615-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: Chrome.]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-45-419-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-45-419-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: iPhone-6 Avner.]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-46-908-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-46-908-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: Chrome.]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-52-734-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-52-734-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: Firefox.]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: iPad Air 2 Shared.]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-57-419-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-57-419-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-58-524-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-58-524-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: Chrome.]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-59-942-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-59-942-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Value is: Adding TestNG framework to Selenium Mobile project, Should be: Manage TestNG execution and Data.]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: iPhone-6 Avner.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: Galaxy S5 Raj.]]>
-    </line>
-    <line>
-      <![CDATA[Error screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-06-000-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-06-000-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-06-609-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-06-609-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: Firefox.]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-10-100-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-10-100-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: Galaxy S5 Raj.]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: iPhone-6 Avner.]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-27-860-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-27-860-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-28-077-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-28-077-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: iPad Air 2 Shared.]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-34-248-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-34-248-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: Galaxy S5 Raj.]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: iPhone-6 Avner.]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-49-540-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-49-540-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-50-514-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-50-514-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-    </line>
-    <line>
-      <![CDATA[Test passed: Test passed.]]>
-    </line>
-    <line>
-      <![CDATA[Resource name: iPad Air 2 Shared.]]>
-    </line>
-    <line>
-      <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-40-13-440-IST.png]]>
-    </line>
-    <line>
-      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-40-13-440-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+      <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-33-02-922-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="341115" started-at="2015-11-05T15:36:16Z" finished-at="2015-11-05T15:41:57Z">
+  <suite name="Default suite" duration-ms="575762" started-at="2015-11-06T08:24:53Z" finished-at="2015-11-06T08:34:28Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="341115" started-at="2015-11-05T15:36:16Z" finished-at="2015-11-05T15:41:57Z">
+    <test name="Default test" duration-ms="575762" started-at="2015-11-06T08:24:53Z" finished-at="2015-11-06T08:34:28Z">
       <class name="testng.SignIn">
-        <test-method status="PASS" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:testng.SignIn@7dc0f706]" name="beforeClass" is-config="true" duration-ms="3" started-at="2015-11-05T17:36:16Z" finished-at="2015-11-05T17:36:16Z">
+        <test-method status="PASS" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:testng.SignIn@544fa968]" name="beforeClass" is-config="true" duration-ms="3" started-at="2015-11-06T10:24:53Z" finished-at="2015-11-06T10:24:53Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@152aa092]]>
+                <![CDATA[org.testng.TestRunner@7d2998d8]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:testng.SignIn@7dc0f706]" name="beforeClass" is-config="true" duration-ms="1" started-at="2015-11-05T17:36:16Z" finished-at="2015-11-05T17:36:16Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[org.testng.TestRunner@152aa092]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:testng.SignIn@7dc0f706]" name="beforeClass" is-config="true" duration-ms="0" started-at="2015-11-05T17:36:16Z" finished-at="2015-11-05T17:36:16Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[org.testng.TestRunner@152aa092]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:testng.SignIn@7dc0f706]" name="beforeClass" is-config="true" duration-ms="0" started-at="2015-11-05T17:36:16Z" finished-at="2015-11-05T17:36:16Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[org.testng.TestRunner@152aa092]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:testng.SignIn@7dc0f706]" name="beforeClass" is-config="true" duration-ms="0" started-at="2015-11-05T17:36:16Z" finished-at="2015-11-05T17:36:16Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[org.testng.TestRunner@152aa092]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@7dc0f706]" name="beforeMethod" is-config="true" duration-ms="7484" started-at="2015-11-05T17:36:16Z" finished-at="2015-11-05T17:36:24Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@544fa968]" name="beforeMethod" is-config="true" duration-ms="77243" started-at="2015-11-06T10:24:53Z" finished-at="2015-11-06T10:26:10Z">
           <params>
             <param index="0">
               <value>
@@ -433,111 +101,32 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@7dc0f706]" name="beforeMethod" is-config="true" duration-ms="22002" started-at="2015-11-05T17:36:16Z" finished-at="2015-11-05T17:36:38Z">
+        <test-method status="FAIL" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@3bd82cf5]" name="signIn" duration-ms="5" started-at="2015-11-06T10:26:10Z" data-provider="logInData" finished-at="2015-11-06T10:26:10Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testng.SignIn.signIn(java.lang.String,java.lang.String,java.lang.String)]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@7dc0f706]" name="beforeMethod" is-config="true" duration-ms="20286" started-at="2015-11-05T17:36:16Z" finished-at="2015-11-05T17:36:37Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.SignIn.signIn(java.lang.String,java.lang.String,java.lang.String)]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@7dc0f706]" name="beforeMethod" is-config="true" duration-ms="6082" started-at="2015-11-05T17:36:16Z" finished-at="2015-11-05T17:36:23Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.SignIn.signIn(java.lang.String,java.lang.String,java.lang.String)]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@7dc0f706]" name="beforeMethod" is-config="true" duration-ms="10097" started-at="2015-11-05T17:36:16Z" finished-at="2015-11-05T17:36:27Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.SignIn.signIn(java.lang.String,java.lang.String,java.lang.String)]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@3d34d211]" name="signIn" duration-ms="19438" started-at="2015-11-05T17:36:23Z" data-provider="logInData" finished-at="2015-11-05T17:36:42Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[avnerg@perfectomobile.com]]>
+                <![CDATA[beton.yatsuk@gmail.com]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[a1001a]]>
+                <![CDATA[ABC123]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[Hi, Avner!]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: Firefox.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-36-42-140-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-36-42-140-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- signIn -->
-        <test-method status="FAIL" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@ae13544]" name="signIn" duration-ms="11669" started-at="2015-11-05T17:36:24Z" data-provider="logInData" finished-at="2015-11-05T17:36:35Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[avnerg@perfectomobile.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[a1001a]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Hi, Avner!]]>
+                <![CDATA[Hi, Beton!]]>
               </value>
             </param>
           </params>
           <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[null]]>
+              <![CDATA[Resource not avalable: null]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: null
+              <![CDATA[java.lang.AssertionError: Resource not avalable: null
 	at org.testng.Assert.fail(Assert.java:94)
-	at org.testng.Assert.fail(Assert.java:101)
-	at com.perfectomobile.test.BasicTest.reportFail(BasicTest.java:297)
-	at testng.SignIn.signIn(SignIn.java:41)
+	at testng.SignIn.signIn(SignIn.java:29)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -548,42 +137,134 @@
 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
-	at java.lang.Thread.run(Thread.java:745)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
 ]]>
             </full-stacktrace>
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
-            <line>
-              <![CDATA[Value is: , Should be: Hi, Avner!.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: Chrome.]]>
-            </line>
-            <line>
-              <![CDATA[Error screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-36-35-488-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-36-35-488-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
           </reporter-output>
         </test-method> <!-- signIn -->
-        <test-method status="PASS" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@6f4a47c7]" name="signIn" duration-ms="26193" started-at="2015-11-05T17:36:27Z" data-provider="logInData" finished-at="2015-11-05T17:36:53Z">
+        <test-method status="FAIL" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@3bd82cf5]" name="signIn" duration-ms="1" started-at="2015-11-06T10:26:10Z" data-provider="logInData" finished-at="2015-11-06T10:26:10Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[avnerg@perfectomobile.com]]>
+                <![CDATA[wrongEmail@gmail.com]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[a1001a]]>
+                <![CDATA[xxxxxxx]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[Hi, Avner!]]>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Resource not avalable: null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Resource not avalable: null
+	at org.testng.Assert.fail(Assert.java:94)
+	at testng.SignIn.signIn(SignIn.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@544fa968]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-06T10:26:10Z" finished-at="2015-11-06T10:26:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testng.SignIn.signIn(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:testng.SignIn@544fa968]" name="beforeClass" is-config="true" duration-ms="0" started-at="2015-11-06T10:26:10Z" finished-at="2015-11-06T10:26:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7d2998d8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testng.SignIn@544fa968]" name="afterClass" is-config="true" duration-ms="0" started-at="2015-11-06T10:26:10Z" finished-at="2015-11-06T10:26:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@544fa968]" name="beforeMethod" is-config="true" duration-ms="10072" started-at="2015-11-06T10:26:10Z" finished-at="2015-11-06T10:26:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testng.SignIn.signIn(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@4c178a76]" name="signIn" duration-ms="26413" started-at="2015-11-06T10:26:20Z" data-provider="logInData" finished-at="2015-11-06T10:26:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[beton.yatsuk@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ABC123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hi, Beton!]]>
               </value>
             </param>
           </params>
@@ -595,179 +276,14 @@
               <![CDATA[Resource name: Galaxy S5 SM-G900A Avner.]]>
             </line>
             <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-36-52-944-IST.png]]>
+              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-26-46-569-IST.png]]>
             </line>
             <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-36-52-944-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-26-46-569-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- signIn -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@7dc0f706]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2015-11-05T17:36:35Z" finished-at="2015-11-05T17:36:35Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.SignIn.signIn(java.lang.String,java.lang.String,java.lang.String)]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@ae13544]" name="signIn" duration-ms="47032" started-at="2015-11-05T17:36:35Z" data-provider="logInData" finished-at="2015-11-05T17:37:22Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[wrongEmail@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[xxxxxxx]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: Chrome.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-37-22-648-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-37-22-648-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- signIn -->
-        <test-method status="PASS" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@69453e37]" name="signIn" duration-ms="22772" started-at="2015-11-05T17:36:37Z" data-provider="logInData" finished-at="2015-11-05T17:36:59Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[avnerg@perfectomobile.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[a1001a]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Hi, Avner!]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: iPhone-6 Raj.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-36-59-541-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-36-59-541-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- signIn -->
-        <test-method status="PASS" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@7dc0f706]" name="signIn" duration-ms="28934" started-at="2015-11-05T17:36:38Z" data-provider="logInData" finished-at="2015-11-05T17:37:07Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[avnerg@perfectomobile.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[a1001a]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Hi, Avner!]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: iPad Air Shared.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-37-07-498-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-37-07-498-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- signIn -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@7dc0f706]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2015-11-05T17:36:42Z" finished-at="2015-11-05T17:36:42Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.SignIn.signIn(java.lang.String,java.lang.String,java.lang.String)]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@3d34d211]" name="signIn" duration-ms="58934" started-at="2015-11-05T17:36:42Z" data-provider="logInData" finished-at="2015-11-05T17:37:41Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[wrongEmail@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[xxxxxxx]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: Firefox.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-37-41-096-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-37-41-096-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- signIn -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@7dc0f706]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2015-11-05T17:36:53Z" finished-at="2015-11-05T17:36:53Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.SignIn.signIn(java.lang.String,java.lang.String,java.lang.String)]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@6f4a47c7]" name="signIn" duration-ms="60762" started-at="2015-11-05T17:36:53Z" data-provider="logInData" finished-at="2015-11-05T17:37:54Z">
+        <test-method status="PASS" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@4c178a76]" name="signIn" duration-ms="67484" started-at="2015-11-06T10:26:46Z" data-provider="logInData" finished-at="2015-11-06T10:27:54Z">
           <params>
             <param index="0">
               <value>
@@ -793,47 +309,14 @@
               <![CDATA[Resource name: Galaxy S5 SM-G900A Avner.]]>
             </line>
             <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-37-53-732-IST.png]]>
+              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-27-53-964-IST.png]]>
             </line>
             <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-37-53-732-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-27-53-964-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- signIn -->
-        <test-method status="PASS" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@69453e37]" name="signIn" duration-ms="62481" started-at="2015-11-05T17:36:59Z" data-provider="logInData" finished-at="2015-11-05T17:38:02Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[wrongEmail@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[xxxxxxx]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: iPhone-6 Raj.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-02-152-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-02-152-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- signIn -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@7dc0f706]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-05T17:36:59Z" finished-at="2015-11-05T17:36:59Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@544fa968]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-06T10:26:46Z" finished-at="2015-11-06T10:26:46Z">
           <params>
             <param index="0">
               <value>
@@ -844,7 +327,77 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@7dc0f706]" name="signIn" duration-ms="67805" started-at="2015-11-05T17:37:07Z" data-provider="logInData" finished-at="2015-11-05T17:38:15Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testng.SignIn@544fa968]" name="afterClass" is-config="true" duration-ms="11784" started-at="2015-11-06T10:27:54Z" finished-at="2015-11-06T10:28:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:testng.SignIn@544fa968]" name="beforeClass" is-config="true" duration-ms="0" started-at="2015-11-06T10:28:06Z" finished-at="2015-11-06T10:28:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7d2998d8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@544fa968]" name="beforeMethod" is-config="true" duration-ms="27965" started-at="2015-11-06T10:28:06Z" finished-at="2015-11-06T10:28:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testng.SignIn.signIn(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@544fa968]" name="signIn" duration-ms="70459" started-at="2015-11-06T10:28:34Z" data-provider="logInData" finished-at="2015-11-06T10:29:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[beton.yatsuk@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ABC123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hi, Beton!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test passed: Test passed.]]>
+            </line>
+            <line>
+              <![CDATA[Resource name: iPad Air Shared.]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-29-44-396-IST.png]]>
+            </line>
+            <line>
+              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-29-44-396-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@544fa968]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-06T10:29:44Z" finished-at="2015-11-06T10:29:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testng.SignIn.signIn(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@544fa968]" name="signIn" duration-ms="85788" started-at="2015-11-06T10:29:44Z" data-provider="logInData" finished-at="2015-11-06T10:31:10Z">
           <params>
             <param index="0">
               <value>
@@ -870,14 +423,29 @@
               <![CDATA[Resource name: iPad Air Shared.]]>
             </line>
             <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-15-295-IST.png]]>
+              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-31-10-180-IST.png]]>
             </line>
             <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-15-295-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-31-10-180-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- signIn -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@7dc0f706]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-05T17:37:07Z" finished-at="2015-11-05T17:37:07Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testng.SignIn@544fa968]" name="afterClass" is-config="true" duration-ms="9009" started-at="2015-11-06T10:31:10Z" finished-at="2015-11-06T10:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:testng.SignIn@544fa968]" name="beforeClass" is-config="true" duration-ms="0" started-at="2015-11-06T10:31:19Z" finished-at="2015-11-06T10:31:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7d2998d8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@544fa968]" name="beforeMethod" is-config="true" duration-ms="19043" started-at="2015-11-06T10:31:19Z" finished-at="2015-11-06T10:31:38Z">
           <params>
             <param index="0">
               <value>
@@ -888,1010 +456,237 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:testng.SignIn@7dc0f706]" name="afterClass" is-config="true" duration-ms="3579" started-at="2015-11-05T17:37:22Z" finished-at="2015-11-05T17:37:26Z">
+        <test-method status="PASS" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@b2c9a9c]" name="signIn" duration-ms="20701" started-at="2015-11-06T10:31:38Z" data-provider="logInData" finished-at="2015-11-06T10:31:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[beton.yatsuk@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ABC123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hi, Beton!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test passed: Test passed.]]>
+            </line>
+            <line>
+              <![CDATA[Resource name: iPhone-6 Raj.]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-31-58-965-IST.png]]>
+            </line>
+            <line>
+              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-31-58-965-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method status="PASS" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@b2c9a9c]" name="signIn" duration-ms="63993" started-at="2015-11-06T10:31:59Z" data-provider="logInData" finished-at="2015-11-06T10:33:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[wrongEmail@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xxxxxxx]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test passed: Test passed.]]>
+            </line>
+            <line>
+              <![CDATA[Resource name: iPhone-6 Raj.]]>
+            </line>
+            <line>
+              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-33-02-922-IST.png]]>
+            </line>
+            <line>
+              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-06-10-33-02-922-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@544fa968]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-06T10:31:59Z" finished-at="2015-11-06T10:31:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testng.SignIn.signIn(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testng.SignIn@544fa968]" name="afterClass" is-config="true" duration-ms="9243" started-at="2015-11-06T10:33:03Z" finished-at="2015-11-06T10:33:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:testng.SignIn@7dc0f706]" name="afterClass" is-config="true" duration-ms="460" started-at="2015-11-05T17:37:41Z" finished-at="2015-11-05T17:37:41Z">
+        <test-method status="PASS" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:testng.SignIn@544fa968]" name="beforeClass" is-config="true" duration-ms="0" started-at="2015-11-06T10:33:12Z" finished-at="2015-11-06T10:33:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7d2998d8]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:testng.SignIn@7dc0f706]" name="afterClass" is-config="true" duration-ms="10925" started-at="2015-11-05T17:37:54Z" finished-at="2015-11-05T17:38:04Z">
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@544fa968]" name="beforeMethod" is-config="true" duration-ms="76415" started-at="2015-11-06T10:33:12Z" finished-at="2015-11-06T10:34:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testng.SignIn.signIn(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:testng.SignIn@7dc0f706]" name="afterClass" is-config="true" duration-ms="10023" started-at="2015-11-05T17:38:02Z" finished-at="2015-11-05T17:38:12Z">
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@fa4c865]" name="signIn" duration-ms="1" started-at="2015-11-06T10:34:28Z" data-provider="logInData" finished-at="2015-11-06T10:34:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[beton.yatsuk@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ABC123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hi, Beton!]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Resource not avalable: null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Resource not avalable: null
+	at org.testng.Assert.fail(Assert.java:94)
+	at testng.SignIn.signIn(SignIn.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:testng.SignIn@7dc0f706]" name="afterClass" is-config="true" duration-ms="9008" started-at="2015-11-05T17:38:15Z" finished-at="2015-11-05T17:38:24Z">
+        </test-method> <!-- signIn -->
+        <test-method status="FAIL" signature="signIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.SignIn@fa4c865]" name="signIn" duration-ms="1" started-at="2015-11-06T10:34:28Z" data-provider="logInData" finished-at="2015-11-06T10:34:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[wrongEmail@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xxxxxxx]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Resource not avalable: null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Resource not avalable: null
+	at org.testng.Assert.fail(Assert.java:94)
+	at testng.SignIn.signIn(SignIn.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.SignIn@544fa968]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-06T10:34:28Z" finished-at="2015-11-06T10:34:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testng.SignIn.signIn(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testng.SignIn@544fa968]" name="afterClass" is-config="true" duration-ms="0" started-at="2015-11-06T10:34:28Z" finished-at="2015-11-06T10:34:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- testng.SignIn -->
-      <class name="testng.FindPost">
-        <test-method status="PASS" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:testng.FindPost@1190200a]" name="beforeClass" is-config="true" duration-ms="0" started-at="2015-11-05T17:37:26Z" finished-at="2015-11-05T17:37:26Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[org.testng.TestRunner@152aa092]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="18547" started-at="2015-11-05T17:37:26Z" finished-at="2015-11-05T17:37:45Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:testng.FindPost@1190200a]" name="beforeClass" is-config="true" duration-ms="0" started-at="2015-11-05T17:37:41Z" finished-at="2015-11-05T17:37:41Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[org.testng.TestRunner@152aa092]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="8251" started-at="2015-11-05T17:37:41Z" finished-at="2015-11-05T17:37:50Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@1190200a]" name="findPost" duration-ms="31741" started-at="2015-11-05T17:37:45Z" data-provider="findPostDP" finished-at="2015-11-05T17:38:16Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[fluent wait]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Selenium wait for object]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: iPad Air 2 Shared.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-16-594-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-16-594-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@33c911a1]" name="findPost" duration-ms="52518" started-at="2015-11-05T17:37:50Z" data-provider="findPostDP" finished-at="2015-11-05T17:38:42Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[fluent wait]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Selenium wait for object]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: Galaxy S5 Raj.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-42-333-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-42-333-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:testng.FindPost@1190200a]" name="beforeClass" is-config="true" duration-ms="1" started-at="2015-11-05T17:38:04Z" finished-at="2015-11-05T17:38:04Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[org.testng.TestRunner@152aa092]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="20045" started-at="2015-11-05T17:38:04Z" finished-at="2015-11-05T17:38:24Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:testng.FindPost@1190200a]" name="beforeClass" is-config="true" duration-ms="0" started-at="2015-11-05T17:38:12Z" finished-at="2015-11-05T17:38:12Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[org.testng.TestRunner@152aa092]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="3915" started-at="2015-11-05T17:38:12Z" finished-at="2015-11-05T17:38:16Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@707194ba]" name="findPost" duration-ms="14788" started-at="2015-11-05T17:38:16Z" data-provider="findPostDP" finished-at="2015-11-05T17:38:31Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[fluent wait]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Selenium wait for object]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: Firefox.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-30-806-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-30-806-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@1190200a]" name="findPost" duration-ms="41985" started-at="2015-11-05T17:38:16Z" data-provider="findPostDP" finished-at="2015-11-05T17:38:58Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[testng]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Manage TestNG execution and Data]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: iPad Air 2 Shared.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-58-524-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-58-524-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-05T17:38:16Z" finished-at="2015-11-05T17:38:16Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:testng.FindPost@1190200a]" name="beforeClass" is-config="true" duration-ms="0" started-at="2015-11-05T17:38:24Z" finished-at="2015-11-05T17:38:24Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[org.testng.TestRunner@152aa092]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="2290" started-at="2015-11-05T17:38:24Z" finished-at="2015-11-05T17:38:26Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@65d09a04]" name="findPost" duration-ms="22300" started-at="2015-11-05T17:38:24Z" data-provider="findPostDP" finished-at="2015-11-05T17:38:47Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[fluent wait]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Selenium wait for object]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: iPhone-6 Avner.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-46-908-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-46-908-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@75db5df9]" name="findPost" duration-ms="11558" started-at="2015-11-05T17:38:26Z" data-provider="findPostDP" finished-at="2015-11-05T17:38:38Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[fluent wait]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Selenium wait for object]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: Chrome.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-38-120-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-38-120-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-05T17:38:31Z" finished-at="2015-11-05T17:38:31Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@707194ba]" name="findPost" duration-ms="11787" started-at="2015-11-05T17:38:31Z" data-provider="findPostDP" finished-at="2015-11-05T17:38:42Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[testng]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Manage TestNG execution and Data]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: Firefox.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-42-615-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-42-615-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-05T17:38:38Z" finished-at="2015-11-05T17:38:38Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@75db5df9]" name="findPost" duration-ms="7289" started-at="2015-11-05T17:38:38Z" data-provider="findPostDP" finished-at="2015-11-05T17:38:45Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[testng]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Manage TestNG execution and Data]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: Chrome.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-45-419-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-45-419-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="FAIL" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@33c911a1]" name="findPost" duration-ms="23647" started-at="2015-11-05T17:38:42Z" data-provider="findPostDP" finished-at="2015-11-05T17:39:06Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[testng]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Manage TestNG execution and Data]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[null]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: null
-	at org.testng.Assert.fail(Assert.java:94)
-	at org.testng.Assert.fail(Assert.java:101)
-	at com.perfectomobile.test.BasicTest.reportFail(BasicTest.java:297)
-	at testng.FindPost.findPost(FindPost.java:41)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:497)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
-	at java.lang.Thread.run(Thread.java:745)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-            <line>
-              <![CDATA[Value is: Adding TestNG framework to Selenium Mobile project, Should be: Manage TestNG execution and Data.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: Galaxy S5 Raj.]]>
-            </line>
-            <line>
-              <![CDATA[Error screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-06-000-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-06-000-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-05T17:38:42Z" finished-at="2015-11-05T17:38:42Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@707194ba]" name="findPost" duration-ms="14770" started-at="2015-11-05T17:38:42Z" data-provider="findPostDP" finished-at="2015-11-05T17:38:57Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[jenkins setup]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[2.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Jenkins TomCat Setup as a Windows Service – CI Automation]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: Firefox.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-57-419-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-57-419-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-05T17:38:42Z" finished-at="2015-11-05T17:38:42Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@75db5df9]" name="findPost" duration-ms="7274" started-at="2015-11-05T17:38:45Z" data-provider="findPostDP" finished-at="2015-11-05T17:38:53Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[jenkins setup]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[2.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Jenkins TomCat Setup as a Windows Service – CI Automation]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: Chrome.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-52-734-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-52-734-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-05T17:38:45Z" finished-at="2015-11-05T17:38:45Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@65d09a04]" name="findPost" duration-ms="19586" started-at="2015-11-05T17:38:47Z" data-provider="findPostDP" finished-at="2015-11-05T17:39:06Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[testng]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Manage TestNG execution and Data]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: iPhone-6 Avner.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-06-609-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-06-609-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-05T17:38:47Z" finished-at="2015-11-05T17:38:47Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-05T17:38:53Z" finished-at="2015-11-05T17:38:53Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@75db5df9]" name="findPost" duration-ms="7210" started-at="2015-11-05T17:38:53Z" data-provider="findPostDP" finished-at="2015-11-05T17:39:00Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[ci]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Jenkins TomCat Setup as a Windows Service – CI Automation]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: Chrome.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-59-942-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-38-59-942-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-05T17:38:57Z" finished-at="2015-11-05T17:38:57Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@707194ba]" name="findPost" duration-ms="13012" started-at="2015-11-05T17:38:57Z" data-provider="findPostDP" finished-at="2015-11-05T17:39:10Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[ci]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Jenkins TomCat Setup as a Windows Service – CI Automation]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: Firefox.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-10-100-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-10-100-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-05T17:38:58Z" finished-at="2015-11-05T17:38:58Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@1190200a]" name="findPost" duration-ms="35672" started-at="2015-11-05T17:38:58Z" data-provider="findPostDP" finished-at="2015-11-05T17:39:34Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[jenkins setup]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[2.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Jenkins TomCat Setup as a Windows Service – CI Automation]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: iPad Air 2 Shared.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-34-248-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-34-248-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:testng.FindPost@1190200a]" name="afterClass" is-config="true" duration-ms="2846" started-at="2015-11-05T17:39:00Z" finished-at="2015-11-05T17:39:03Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@33c911a1]" name="findPost" duration-ms="22121" started-at="2015-11-05T17:39:06Z" data-provider="findPostDP" finished-at="2015-11-05T17:39:28Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[jenkins setup]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[2.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Jenkins TomCat Setup as a Windows Service – CI Automation]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: Galaxy S5 Raj.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-28-077-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-28-077-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-05T17:39:06Z" finished-at="2015-11-05T17:39:06Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-05T17:39:06Z" finished-at="2015-11-05T17:39:06Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@65d09a04]" name="findPost" duration-ms="21243" started-at="2015-11-05T17:39:06Z" data-provider="findPostDP" finished-at="2015-11-05T17:39:28Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[jenkins setup]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[2.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Jenkins TomCat Setup as a Windows Service – CI Automation]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: iPhone-6 Avner.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-27-860-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-27-860-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:testng.FindPost@1190200a]" name="afterClass" is-config="true" duration-ms="167124" started-at="2015-11-05T17:39:10Z" finished-at="2015-11-05T17:41:57Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@65d09a04]" name="findPost" duration-ms="21696" started-at="2015-11-05T17:39:28Z" data-provider="findPostDP" finished-at="2015-11-05T17:39:49Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[ci]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Jenkins TomCat Setup as a Windows Service – CI Automation]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: iPhone-6 Avner.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-49-540-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-49-540-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-05T17:39:28Z" finished-at="2015-11-05T17:39:28Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@33c911a1]" name="findPost" duration-ms="22394" started-at="2015-11-05T17:39:28Z" data-provider="findPostDP" finished-at="2015-11-05T17:39:50Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[ci]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Jenkins TomCat Setup as a Windows Service – CI Automation]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: Galaxy S5 Raj.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-50-514-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-39-50-514-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-05T17:39:28Z" finished-at="2015-11-05T17:39:28Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testng.FindPost@1190200a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-11-05T17:39:34Z" finished-at="2015-11-05T17:39:34Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testng.FindPost.findPost(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="findPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng.FindPost@1190200a]" name="findPost" duration-ms="39208" started-at="2015-11-05T17:39:34Z" data-provider="findPostDP" finished-at="2015-11-05T17:40:13Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[ci]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1.0]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Jenkins TomCat Setup as a Windows Service – CI Automation]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Test passed: Test passed.]]>
-            </line>
-            <line>
-              <![CDATA[Resource name: iPad Air 2 Shared.]]>
-            </line>
-            <line>
-              <![CDATA[Screenshot saved in file: /Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-40-13-440-IST.png]]>
-            </line>
-            <line>
-              <![CDATA[<br> <img src=/Users/avner/git/my-tests/my-tests/test-output/screenshots/2015-11-05-17-40-13-440-IST.png style="max-width:50%;max-height:50%" /> <br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- findPost -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:testng.FindPost@1190200a]" name="afterClass" is-config="true" duration-ms="10513" started-at="2015-11-05T17:39:49Z" finished-at="2015-11-05T17:40:00Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:testng.FindPost@1190200a]" name="afterClass" is-config="true" duration-ms="10548" started-at="2015-11-05T17:39:50Z" finished-at="2015-11-05T17:40:01Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:testng.FindPost@1190200a]" name="afterClass" is-config="true" duration-ms="8536" started-at="2015-11-05T17:40:13Z" finished-at="2015-11-05T17:40:22Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- testng.FindPost -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

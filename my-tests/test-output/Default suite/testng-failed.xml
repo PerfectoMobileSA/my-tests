@@ -3,14 +3,15 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="testng.FindPost">
+      <class name="testng.SignIn">
         <methods>
           <include name="beforeMethod"/>
-          <include name="findPost" invocation-numbers="0 1 2 3"/>
           <include name="beforeClass"/>
           <include name="afterClass"/>
+          <include name="signIn" invocation-numbers="0 1"/>
+          <include name="signIn" invocation-numbers="0 1"/>
         </methods>
-      </class> <!-- testng.FindPost -->
+      </class> <!-- testng.SignIn -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
